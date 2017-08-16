@@ -1,0 +1,16 @@
+api_branch: origin/master
+api_parser: ~
+api_cfgmod: clone
+api_runner: ~
+api_paths: lib
+env_make: ~
+env_prep: composer-get
+php_conf: timezone
+php_exts: ~
+app_prep: composer-req
+app_post: ~
+env_post: composer-del,ci-coveralls,ci-codacy
+app_path: ~
+pkg_name: cocoa-word-stop-library
+pkg_desc: "Simple PHP stop word library with multiple drivers (data sources)."
+pkg_bndl: false
