@@ -33,12 +33,12 @@
   },
   "autoload": {
     "psr-4": {
-      "SR\\Cocoa\\Word\\Stem\\": "lib/"
+      "SR\\Cocoa\\Word\\Stop\\": "lib/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "SR\\Cocoa\\Word\\Stem\\Tests\\": "tests/"
+      "SR\\Cocoa\\Word\\Stop\\Tests\\": "tests/"
     }
   },
   "minimum-stability": "dev",
