@@ -11,7 +11,7 @@
 [Welcome](https://src.run/go/readme_welcome)!
 The `src-run/cocoa-word-stop-library` package provides the following
 
-> Simple PHP-based word stemmer implementation using the Snowball algorithm.
+> Simple PHP stop word library with multiple drivers (data sources).
 
 ### Grouping
 

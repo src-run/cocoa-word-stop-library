@@ -3,7 +3,7 @@
   "license": "MIT",
   "type": "library",
   "homepage": "https://src.run/cocoa-word-stop-library",
-  "description": "Simple PHP-based word stemmer implementation using the Snowball algorithm.",
+  "description": "Simple PHP stop word library with multiple drivers (data sources).",
   "support": {
     "email": "rmf@src.run",
     "issues": "https://src.run/cocoa-word-stop-library/issues",
